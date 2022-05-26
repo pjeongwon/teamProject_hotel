@@ -3,6 +3,7 @@
 크롬에서 무한로딩 이슈로 인해 수리중입니다. 
 익스플로러 이용시 확인 가능합니다 :) 
 http://itwillbs12.cafe24.com/TeamProject/main
+
 ● 메인 페이지
 
 ![image](https://user-images.githubusercontent.com/92214330/167806773-e9fc3e3c-9ae0-40e8-b48a-766ad2b339f5.png)
